@@ -145,6 +145,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "course-carsales"
+    }
+  },
+  "defaultProject": "course-carsales",
+  "cli": {
+    "analytics": false
+  }
 }
